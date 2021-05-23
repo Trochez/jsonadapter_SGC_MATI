@@ -8,10 +8,10 @@
 		<version>2.5.0-M2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jsonadaptor</groupId>
-	<artifactId>jsonadaptor</artifactId>
+	<groupId>com.jsontranslator</groupId>
+	<artifactId>jsontranslator</artifactId>
 	<version>1.0.0</version>
-	<name>jsonadaptor</name>
+	<name>jsontranslator</name>
 	<description>Demo project for Spring Boot</description>
 
 	<dependencies>
